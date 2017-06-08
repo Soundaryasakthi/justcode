@@ -11,7 +11,7 @@ return revnum;
 }
 int main()
 {
-int num=1234;
+int num=4567;
 printf("%d",revdig(num);
 getchar();
 return 0;
