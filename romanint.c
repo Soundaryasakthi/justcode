@@ -27,11 +27,11 @@ int digit(char c)
 int value=0;
 switch(c)
 {
-case 'a':
-        value=1;
-        break;
-case 'b':
+case 'V':
         value=50;
+        break;
+case 'I':
+        value=500;
         break;
 default:
         value=-1;
